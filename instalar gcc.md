@@ -12,7 +12,7 @@
 
 - Presionar la tecla de windows.
 - Escribir "path" sin las comillas.
-- Dar clck en "Editar las variables de entorno del sistema".
+- Dar clck en "Editar las variables de entorno del sistema", si no aparece esto al escribir "path", buscarlo directamente.
 
 ![image](https://github.com/user-attachments/assets/fb13e532-69fe-4c62-83c2-ab426c8aa014)
 
