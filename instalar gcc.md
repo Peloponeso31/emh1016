@@ -31,6 +31,7 @@
 - Dar en el boton "Nuevo".
 - Pegar la ruta `C:\mingw64\bin` en la nueva casilla.
 - Dar "Aceptar" en todas las ventanas.
+- Abrir una nueva terminal/cmd/powershell.
 - Escribir en la terminal "gcc" sin las comillas.
 
 ```
