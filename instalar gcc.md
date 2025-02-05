@@ -25,10 +25,10 @@
 ![image](https://github.com/user-attachments/assets/7ec03fe7-7327-42cf-acc7-59770c43e4e4)
 
 - Dar click en el boton de "Editar".
+- Dar en el boton "Nuevo".
 
 ![image](https://github.com/user-attachments/assets/1652de67-da0b-4c52-9590-b0e3f69acade)
 
-- Dar en el boton "Nuevo".
 - Pegar la ruta `C:\mingw64\bin` en la nueva casilla.
 - Dar "Aceptar" en todas las ventanas.
 - Abrir una nueva terminal/cmd/powershell.
