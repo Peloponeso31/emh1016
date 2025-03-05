@@ -10,7 +10,7 @@ int main()
     printf("1.- Suma.\n");
     printf("2.- Resta.\n");
     printf("0.- Salir.\n");
-    printf("Escriba la operacion que quiera relaizar: ");
+    printf("Escriba la operacion que quiera realizar: ");
 
     scanf("%d", &opcion);
 
