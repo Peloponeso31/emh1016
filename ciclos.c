@@ -2,32 +2,26 @@
 
 int main()
 {
-    int opcion;
-    int a;
-    int b;
-    
-    printf("Menu:\n");
-    printf("1.- Suma.\n");
-    printf("2.- Resta.\n");
-    printf("0.- Salir.\n");
-    printf("Escriba la operacion que quiera realizar: ");
-
-    scanf("%d", &opcion);
-
-    printf("Escriba un numero: ");
-    scanf("%d", &a);
-    printf("Escriba un numero: ");
-    scanf("%d", &b);
-
-    if (opcion == 1)
+    printf("Ciclo for:\n");
+    for (int i = 0; i < 5; i++) // ++ = incrementar en 1
     {
-        printf("El resultado de %d + %d es: %d", a, b, a+b);
-    }
-    if (opcion == 2)
-    {
-        printf("El resultado de %d - %d es: %d", a, b, a-b);
+        printf("%d,", i);
     }
 
+    printf("\nCiclo while:\n");
+    int i = 0;
+    while (i<5)
+    {
+        printf("Hola, ");
+        i++;
+    }
     
-    return 0;
+    printf("\nCiclo do while:\n");
+    int contador = 90;
+    do
+    {
+        printf("%d\n", contador);
+        contador++;
+    }
+    while (contador < 20);
 }
